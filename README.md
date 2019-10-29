@@ -1,6 +1,7 @@
 # Roblox Discord Verificatio
 This project was created for groups who want there own basic framework of a Roblox to Discord verification system.
 
+I am not apart of Discord, Glitch, or roblox.
 
 
 
