@@ -4,7 +4,7 @@
 
 //config
 const customKey = "yesthisisacustomkey"//custom key, must match the roblox version
-const discordToken = "NjEzNTc4NTI4NjEyNjc5NzEw.XbhlyA.I3kpDi1KpTuvqJw5i6DNDN_5zk8"//discord token
+const discordToken = "your_discord_token"//discord token
 const discordPrefix = "!"//discord bot prefix
 const gameLink = "https://www.roblox.com/games/4231503788/vabajaas-Place-Number-219" //link to your roblox game
 
