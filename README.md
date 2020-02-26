@@ -14,6 +14,7 @@ I will only be listing [Glitch](https://glitch.com) for self hosting as [Glitch]
 
 
 ## Glitch 
+### IF you use glitch be aware you might have to re-add all the packages. 
 
 #### Step 1 - Remixing
 You can remix the project I already have here
