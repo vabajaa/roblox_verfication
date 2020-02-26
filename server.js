@@ -93,7 +93,7 @@ const listener = app.listen(process.env.PORT, function() {
 
 
 
-let uuid = require('uuid')
+const { v4: uuid } = require('uuid');
 
 const siteKey = uuid()
 
