@@ -1,6 +1,9 @@
 # Roblox Discord Verification
 This project was created for groups who want there own basic framework of a Roblox to Discord verification system.
 
+*I would highly recomend NOT using the in-built JSON system I provided, that was simply for example based efforts. 
+I may at somepoint in time revisit this project and fix it up.
+
 I am not apart of Discord, Glitch, or roblox.
 
 
